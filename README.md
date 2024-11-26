@@ -1,1 +1,3 @@
 # Algoritma
+NAMA : SRI ASWANTI
+NIM : F5512075
